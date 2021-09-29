@@ -1,0 +1,76 @@
+
+正面.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+原3/rightfoot
+  rotate: false
+  xy: 241, 447
+  size: 130, 47
+  orig: 130, 47
+  offset: 0, 0
+  index: -1
+原3/rightleg2
+  rotate: false
+  xy: 177, 325
+  size: 62, 131
+  orig: 62, 131
+  offset: 0, 0
+  index: -1
+原3/rightleg1
+  rotate: false
+  xy: 158, 1
+  size: 109, 160
+  orig: 109, 160
+  offset: 0, 0
+  index: -1
+原3/leftarm1
+  rotate: false
+  xy: 345, 191
+  size: 59, 188
+  orig: 59, 188
+  offset: 0, 0
+  index: -1
+原3/leftarm2
+  rotate: false
+  xy: 269, 224
+  size: 74, 221
+  orig: 74, 221
+  offset: 0, 0
+  index: -1
+原3/leftleg1
+  rotate: false
+  xy: 158, 163
+  size: 109, 160
+  orig: 109, 160
+  offset: 0, 0
+  index: -1
+原3/body
+  rotate: false
+  xy: 1, 1
+  size: 155, 322
+  orig: 155, 322
+  offset: 0, 0
+  index: -1
+原3/head
+  rotate: false
+  xy: 1, 325
+  size: 174, 157
+  orig: 174, 157
+  offset: 0, 0
+  index: -1
+原3/rightarm2
+  rotate: false
+  xy: 269, 1
+  size: 74, 221
+  orig: 74, 221
+  offset: 0, 0
+  index: -1
+原3/rightarm1
+  rotate: false
+  xy: 345, 1
+  size: 59, 188
+  orig: 59, 188
+  offset: 0, 0
+  index: -1

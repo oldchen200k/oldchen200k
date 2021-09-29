@@ -1,0 +1,69 @@
+
+平反1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+平头反2/前2
+  rotate: false
+  xy: 742, 1
+  size: 231, 264
+  orig: 231, 264
+  offset: 0, 0
+  index: -1
+平头反2/后2
+  rotate: false
+  xy: 844, 524
+  size: 178, 211
+  orig: 178, 211
+  offset: 0, 0
+  index: -1
+平头反2/尾巴
+  rotate: false
+  xy: 546, 524
+  size: 296, 153
+  orig: 296, 153
+  offset: 0, 0
+  index: -1
+平头反2/后臀
+  rotate: false
+  xy: 1, 1
+  size: 371, 345
+  orig: 371, 345
+  offset: 0, 0
+  index: -1
+平头反2/前腰
+  rotate: false
+  xy: 374, 1
+  size: 366, 338
+  orig: 366, 338
+  offset: 0, 0
+  index: -1
+平头反2/脖子
+  rotate: false
+  xy: 374, 341
+  size: 170, 292
+  orig: 170, 292
+  offset: 0, 0
+  index: -1
+平头反2/head
+  rotate: false
+  xy: 1, 635
+  size: 216, 206
+  orig: 216, 206
+  offset: 0, 0
+  index: -1
+平头反2/后1
+  rotate: false
+  xy: 219, 348
+  size: 137, 222
+  orig: 137, 222
+  offset: 0, 0
+  index: -1
+平头反2/前1
+  rotate: false
+  xy: 742, 267
+  size: 235, 255
+  orig: 235, 255
+  offset: 0, 0
+  index: -1
